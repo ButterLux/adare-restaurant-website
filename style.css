@@ -4,7 +4,8 @@ html {
 
 body {
     background-color: #2F3035;
-    background-image: url(/images/background-adare-restaurant.jpg);
+    background-image: url("https://images/background-adare-restaurant.jpg"); /* For GitHub */
+    /* background-image: url(images/background-adare-restaurant.jpg); For Local */
     background-size: cover;
     background-repeat: no-repeat;    
     background-position: center;
